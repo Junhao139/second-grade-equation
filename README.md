@@ -1,6 +1,6 @@
 # second-grade-equation
 
-This project has been created by a Cpp novel, and that's no tecnical contents. Opensource.
+This project has been created by a Cpp novel, and that's no such tecnical contents. Opensource.
 It realises a function witch can identify the members of the syntax and calculates the result.
 
 Still on construction.
